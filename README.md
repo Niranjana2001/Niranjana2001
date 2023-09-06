@@ -1,4 +1,4 @@
-### Hi there 👋
+### Data Science enthusiast pursuing postgraduate degree in Data Science with strong attention to detail and analytical skills. Solid skills in mathematics and statistics along with intermediate level efficiency in SQL, R and Python.
 
 <!--
 **Niranjana2001/Niranjana2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
